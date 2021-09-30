@@ -1,5 +1,6 @@
 This is the summary. 
 We will pull, update
+<<<<<<< HEAD
 
 updating summarry
 
@@ -17,3 +18,5 @@ line 5
 
 line 6
 ew
+=======
+>>>>>>> origin/master
